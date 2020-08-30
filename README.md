@@ -4,6 +4,9 @@ This was created during our time as students at Code Chrysalis.
 
 This is a fullstack app that display truck stops in the USA that are searchable by state, city, highway, car services, or amenities.
 
+## Live Link:
+https://flying-bee-truck-stop.herokuapp.com/
+
 ![FlyingBee Truck Stops Logo](/img/FlyingBeeTruckStopsSmaller.png)
 
 ## Getting Started
